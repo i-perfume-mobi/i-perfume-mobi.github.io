@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunk"]=self["webpackChunk"]||[]).push([[402],{402:(r,t,e)=>{e.r(t),e.d(t,{default:()=>p});var n=e(252);function u(r,t,e,u,s,c){const o=(0,n.up)("x-direct");return(0,n.wg)(),(0,n.j4)(o,{slot:""})}var s=e(905);const c=s.ZP.router({id:"/",setup:function(){return s.ZP["export"]()}});var o=e(744);const a=(0,o.Z)(c,[["render",u]]),p=a}}]);
+//# sourceMappingURL=402.418fee43.js.map
